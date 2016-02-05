@@ -2,14 +2,14 @@
 BacFormatics Copyrights and programmering:
 Raz Shimoni, 
 Architecture, coding, optimization and debugging.
-Sydney University of Technology, Sydney, Australia. 
+The ithree institute, Microbial Imaging Facility, University of Technology Sydney, Ultimo, NSW, 2007, Australia
 Email: raz.shimoni@gmail.com  
  
 
 BacFornatics Project supervision
 ----------------------------
-Prof. Cynthia Whitchurch ,  
-Sydney University of Technology, Sydney, Australia. 
+Cynthia Whitchurch,  
+The ithree institute, Microbial Imaging Facility, University of Technology Sydney, Ultimo, NSW, 2007, Australia
  
 
 
