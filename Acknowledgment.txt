@@ -1,5 +1,5 @@
 
-BacFormatics Copyrights and programmering:
+BacFormatics Copyrights and programming:
 Raz Shimoni, 
 Architecture, coding, optimization and debugging.
 The ithree institute, Microbial Imaging Facility, University of Technology Sydney, Ultimo, NSW, 2007, Australia
