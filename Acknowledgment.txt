@@ -6,14 +6,16 @@ The ithree institute, Microbial Imaging Facility, University of Technology Sydne
 Email: raz.shimoni@gmail.com  
  
 
-BacFornatics Project supervision
+BacFormatics Project supervision
 ----------------------------
 Cynthia Whitchurch,  
 The ithree institute, Microbial Imaging Facility, University of Technology Sydney, Ultimo, NSW, 2007, Australia
  
-
-
-
+ 
+BacFormatics Logo
+----------------------------
+Xinhui Yap
+The ithree institute, Microbial Imaging Facility, University of Technology Sydney, Ultimo, NSW, 2007, Australia
  
 
 We wish to pay attribute and to acknowledge to the following open-code files and its contributors.
